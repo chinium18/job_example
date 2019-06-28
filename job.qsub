@@ -2,6 +2,9 @@
 
 #$ -j y
 #$ -N example
+#$ -P group
+
+
 
 module load python3
 
